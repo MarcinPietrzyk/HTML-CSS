@@ -102,9 +102,11 @@ body
 .tile5
 {	
 	margin:10px;
-	width: 480px;
-	height:304px;
+	width: 420px;
+	height:244px;
 	background-color: #666666;
+	text-align: justify;
+	padding:30px;
 }
 
 
@@ -161,6 +163,26 @@ body
 	background-color: #2084c2;
 }
 
+a.tilelink
+{
+	color:#ffffff;
+	text-decoration: none;
+	display: block;
+	width: 230px;
+	height:142px;
+}
+
+a.tilelinkhtml5
+{
+	color:#ffffff;
+	text-decoration: none;
+}
+
+a.sociallink
+{
+	color:#ffffff;
+	text-decoration: none;
+}
 
 
 
